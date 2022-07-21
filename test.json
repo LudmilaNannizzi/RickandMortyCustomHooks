@@ -1,0 +1,16 @@
+{
+  "JWT_SECRET": "4KG9rStwpL13nTi4zAD1wQ==",
+  "DATABASE_SSL": "true",
+  "DATABASE_HOST": "",
+  "DATABASE_USERNAME": "",
+  "DATABASE_NAME": "",
+  "DATABASE_PASSWORD": "",
+  "DATABASE_PORT": "6447",
+  "APP_KEYS": "mqSrascz3fJ2jzVuTcUqIQ==,44d1sHbNtmkSYXOLpi5yVw==,3xVtCkhuvIfcJXBDjsw44g==,N9lRegItUS06yxEf3SV89g==",
+  "ADMIN_JWT_SECRET": "F1rNFmm8cG6M0K42aqxFCw==",
+  "API_TOKEN_SALT": "k8WAZy1Wtcq1fIKUt/oNqg=="
+  //   "CLOUDINARY_SECRET": "",
+  //   "CLOUDINARY_KEY": "",
+
+  //   "CLOUDINARY_NAME": ""
+}
